@@ -1,0 +1,54 @@
+anatomical location	human	located in
+anatomical location	animal	located in
+animal	biomedical technique	used by
+bacteria 	bacteria	interact
+bacteria 	chemical	interact
+bacteria 	drug	interact
+bacteria	DDF	influence
+bacteria	gene	change expression
+bacteria	human	located in
+bacteria	animal	located in
+bacteria	microbiome	part of
+chemical	anatomical location	located in
+chemical	human	located in
+chemical	animal	located in
+chemical	chemical	interact
+chemical	chemical	part of
+chemical	microbiome	impact
+chemical	microbiome	produced by
+chemical	bacteria	impact
+chemical	DDF	influence
+chemical	gene	change expression
+chemical	human	administered
+chemical	animal	administered
+DDF	anatomical location	strike
+DDF	bacteria	change abundance
+DDF	microbiome	change abundance
+DDF	chemical	interact
+DDF	DDF	affect
+DDF	DDF	is a
+DDF	human	target
+DDF	animal	target
+dietary supplement	DDF	influence
+dietary supplement	gene	change expression
+dietary supplement	human	administered
+dietary supplement	animal	administered
+drug	DDF	influence
+drug	gene	change expression
+drug	human	administered
+drug	animal	administered
+drug	chemical	interact
+drug	drug	interact
+drug	DDF	change effect
+food	DDF	influence
+food	gene	change expression
+food	human	administered
+food	animal	administered
+human	biomedical technique	used by
+microbiome	biomedical technique	used by
+microbiome	anatomical location	located in
+microbiome	human	located in
+microbiome	animal	located in
+microbiome	gene	change expression
+microbiome	DDF	is linked to
+microbiome	microbiome	compared to
