@@ -1,6 +1,6 @@
-## Team-LYX_DMIIP_FDU-Solution-for-GutBrainIE
+# Team-LYX_DMIIP_FDU-Solution-for-GutBrainIE
 
-# Steps to reproduce
+## Steps to reproduce
 
 First, download three models BiomedBERT-base-uncased-abstract-fulltext, BioLinkBERT-base, xlm-roberta-large-english-clinical from Huggingface and put them in base_models folder.
 Then, put GutBrainIE train data into data/train folder
