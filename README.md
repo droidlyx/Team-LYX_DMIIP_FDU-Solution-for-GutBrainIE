@@ -6,7 +6,7 @@ First, download three models BiomedBERT-base-uncased-abstract-fulltext, BioLinkB
 
 Then, put GutBrainIE train data into data/train folder
 
-Finally, in the project base folder, run the following commands:
+Finally, in the project base folder, run the following commands (I used RTX4090 GPU with 24GB GPU memory):
 
 python data2pub.py
 
